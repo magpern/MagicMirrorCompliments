@@ -16,5 +16,50 @@
         "Du fick någon att skratta idag, helt säker!",
         "Du gör skillnad för någon.",
         "Dagen blev bättre, tack vare dig."
-    ]
+    ],
+        "snow": [
+        "Snowball battle!"
+    ],
+    "day_sunny" : [
+        "Idag är en solig dag",
+        "Idag är en vacker dag",
+        "Solen skiner idag!",
+        "Gud vilken vacker dag",
+        "Det är vackert ute\nGå ut oc lek!"
+        ],
+    "day_cloudy" : [
+        "Det är molnigt!",
+        "Det är molnings\nmen ändå fint!",
+        "Slen gömmer sig lite"
+        ],
+    "cloudy" : [
+        ],
+    "cloudy_windy" : [
+    ],
+    "showers" : [
+        "Det kan bli blött idag"
+        ],
+    "rain" : [
+        "Glöm inte paraply",
+        "Det är blött där ute, ta det lugnt!",
+        "Det är regn ute,\nmen du förgyller min dag!"
+        ],
+    "thunderstorm" : [
+        ],
+    "fog" : [
+    ],
+    "night_clear": [
+        "Kvällens väderprognos: mörkt"
+    ],
+    "night_cloudy" : [
+    ],
+    "night_showers" : [
+    ],
+    "night_rain" : [
+    ],
+    "night_thunderstorm" : [
+        "Det stormar ute\nVar inte rädd"
+    ],
+    "night_alt_cloudy_windy" : [
+    ]   
 }
