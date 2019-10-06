@@ -1,0 +1,20 @@
+{
+    "anytime" : [
+        "Hej snygging!"
+    ],
+    "morning" : [
+        "God morgon, sockertopp!",
+        "Vem behöver kaffe när man har ditt leende?",
+        "Kör hårt idag, tuffing!"
+    ],
+    "afternoon" : [
+        "Överträffar dig själv!",
+        "Du gör skillnad!",
+        "Du är roligare än paketpapper!"
+    ],
+    "evening" : [
+        "Du fick någon att skratta idag, helt säker!",
+        "Du gör skillnad för någon.",
+        "Dagen blev bättre, tack vare dig."
+    ]
+}
