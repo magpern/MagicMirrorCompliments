@@ -1,0 +1,2 @@
+# MagicMirrorCompliments
+Swedish MagicMirror Compliments
