@@ -1,65 +1,90 @@
 {
-    "anytime" : [
-        "Hej snygging!"
+    "anytime": [
+        "Hey genius, your brain deserves a standing ovation!",
+        "You're like a perfectly optimized algorithm: fast and efficient!",
+        "Your commits make the world a better place.",
+        "You're the API everyone wants to integrate with.",
+        "Code would be jealous of how well-structured you are.",
+        "You're the easter egg in someone’s day!",
+        "If debugging were an Olympic sport, you'd have all the golds.",
+        "Your pull requests should be framed as art.",
+        "You're the reason 'git blame' exists without fear.",
+        "You're the documentation everyone actually reads.",
+        "You're the semicolon that completes the syntax of life.",
+        "You’re a top-level domain in the network of awesomeness.",
+        "Your logic is sharper than a binary search.",
+        "You’re a human framework for excellence!",
+        "You write cleaner code than a lint tool.",
+        "You're the patch to someone's crashing day.",
+        "You're more useful than Stack Overflow in a panic.",
+        "The world needs more people with your kind of uptime.",
+        "You have better version control than Git.",
+        "You're the root password to success."
     ],
-    "morning" : [
-        "God morgon, sockertopp!",
-        "Vem behöver kaffe när man har ditt leende?",
-        "Kör hårt idag, tuffing!"
+    "morning": [
+        "Good morning, code wizard!",
+        "Who needs coffee when your ideas are this bright?",
+        "Time to debug the day, superstar!",
+        "You woke up with 100% coverage of awesomeness.",
+        "Your smile could power a server room.",
+        "Rise and shine, syntax queen/king!",
+        "Let's make today more productive than a cron job.",
+        "The sun's up, and so is your genius.",
+        "Your creativity booted up perfectly today.",
+        "You make Mondays look like Fridays.",
+        "The only bugs you're catching today are breakfast crumbs.",
+        "You're a morning feature with no bugs.",
+        "You're more refreshing than a successful CI/CD pipeline.",
+        "You’re the reason mornings compile without errors.",
+        "Early bird or not, you’ve got the worm of wisdom.",
+        "You woke up with admin privileges today.",
+        "Morning meetings fear your brilliance.",
+        "You're a sunrise in human form, dazzling and warm.",
+        "Your morning brain is already running on full bandwidth.",
+        "Another day, another chance to dazzle the world with your skills."
     ],
-    "afternoon" : [
-        "Överträffar dig själv!",
-        "Du gör skillnad!",
-        "Du är roligare än paketpapper!"
+    "afternoon": [
+        "Crushing bugs and taking names, as always!",
+        "You're more reliable than a well-written unit test!",
+        "You make 'afternoon slumps' a myth!",
+        "Your productivity is more consistent than a while loop.",
+        "You're the afternoon commit that everyone appreciates.",
+        "You're debugging life like a pro.",
+        "If focus were a variable, yours would be const.",
+        "You’re the exception to the rule of afternoon fatigue.",
+        "Your energy is more sustainable than solar power.",
+        "You're the breakpoint in someone's overwhelming day.",
+        "Your brilliance scales better than cloud computing.",
+        "If the afternoon had a stack trace, you'd be at the top.",
+        "You're delivering code and smiles with zero latency.",
+        "You’re the query that always returns joy.",
+        "You're the syntax highlighting to an otherwise dull afternoon.",
+        "Your afternoon vibes are stronger than any caffeine shot.",
+        "You’re a lambda function of productivity and cheer.",
+        "Who needs a coffee break when you're this inspiring?",
+        "Your work makes the afternoon feel like a new sprint.",
+        "You're the IDE everyone wants open in their life."
     ],
-    "evening" : [
-        "Du fick någon att skratta idag, helt säker!",
-        "Du gör skillnad för någon.",
-        "Dagen blev bättre, tack vare dig."
-    ],
-        "snow": [
-        "Snowball battle!"
-    ],
-    "day_sunny" : [
-        "Idag är en solig dag",
-        "Idag är en vacker dag",
-        "Solen skiner idag!",
-        "Gud vilken vacker dag",
-        "Det är vackert ute\nGå ut oc lek!"
-        ],
-    "day_cloudy" : [
-        "Det är molnigt!",
-        "Det är molnings\nmen ändå fint!",
-        "Slen gömmer sig lite"
-        ],
-    "cloudy" : [
-        ],
-    "cloudy_windy" : [
-    ],
-    "showers" : [
-        "Det kan bli blött idag"
-        ],
-    "rain" : [
-        "Glöm inte paraply",
-        "Det är blött där ute, ta det lugnt!",
-        "Det är regn ute,\nmen du förgyller min dag!"
-        ],
-    "thunderstorm" : [
-        ],
-    "fog" : [
-    ],
-    "night_clear": [
-        "Kvällens väderprognos: mörkt"
-    ],
-    "night_cloudy" : [
-    ],
-    "night_showers" : [
-    ],
-    "night_rain" : [
-    ],
-    "night_thunderstorm" : [
-        "Det stormar ute\nVar inte rädd"
-    ],
-    "night_alt_cloudy_windy" : [
-    ]   
+    "evening": [
+        "You shipped it today. High five!",
+        "Someone's project just got better, thanks to you.",
+        "The only thing that crashed today was your dinner into your plate.",
+        "You deserve more applause than a clean Jenkins build.",
+        "You handled today’s workload like a perfectly balanced load balancer.",
+        "You're the merge commit that brings it all together.",
+        "Ending the day with you feels like closing a successful sprint.",
+        "You pushed today to production. Bravo!",
+        "You logged out of the day like a pro.",
+        "You're the graceful shutdown the evening needed.",
+        "If today were an app, you'd have 5-star reviews.",
+        "You’re the reason someone’s day had no 404 moments.",
+        "Your performance today was a solid 200 OK.",
+        "You’re the evening release note that makes everyone smile.",
+        "You tackled today like a debugger in dark mode.",
+        "You're the regex to life's chaotic strings.",
+        "Your evening energy is still more than most people's morning burst.",
+        "You deserve an upgrade to chill mode.",
+        "Today's uptime wouldn't have been the same without you.",
+        "You're the soft close button to a hard day."
+    ]
 }
